@@ -6,14 +6,13 @@
 */
 @import url('./reset.css');
 @import url('./task-1-header.css');
-@import url('./task-2.css');
-@import url('./task-3.css');
-@import url('./task-4.css');
-@import url('./task-5.css');
-@import url('./task-6.css');
-@import url('./task-7.css');
-@import url('./task-8-footer.css');
-@import url('./task-9-mobile-menu.css');
+@import url('./task-2-hero.css');
+@import url('./task-3-about-us.css');
+@import url('./task-4-our-collection.css');
+@import url('./task-5-your-order.css');
+@import url('./task-6-testimonials.css');
+@import url('./task-7-footer.css');
+@import url('./task-8-mobile-menu.css');
 
 :root {
   font-family: 'Manrope', sans-serif;
@@ -24,9 +23,7 @@
   color: #fcf9f9;
   background-color: #1c2225;
 
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
+  --black: #1c2225;
+  --yellow: #ecd979;
+  --white: #fcf9f9;
 }
